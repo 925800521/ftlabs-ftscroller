@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [ftlabs/ftscroller](http://github.com/ftlabs/ftscroller). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/ftlabs-ftscroller`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # FTScroller
 
 FTScroller is a library for adding momentum scrolling to web content on devices with a touch interface, compatible across most modern platforms including desktop browsers.  Although recently support for `overflow: scroll` (or touch equivalents) has increased, this is often still not implemented in a cross-platform or backwards-compatible way, and with no support for features like snapping.  
